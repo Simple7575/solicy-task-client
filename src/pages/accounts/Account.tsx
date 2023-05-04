@@ -11,7 +11,7 @@ export default function Account() {
                 Account
             </h2>
             <div className="overflow-x-auto flex flex-col items-center gap-2">
-                <table className="table table-zebra w-full border border-indigo-600 max-w-2xl">
+                <table className="table table-zebra w-full border border-indigo-600 max-w-2xl text-xs sm:text-sm">
                     <tbody>
                         <tr>
                             <th>ID</th>
